@@ -16,7 +16,7 @@
 
 👾 **Tech Enthusiast** | 📚 **Learning** | 🎮 🎲 **Gaming**
 
-- 💡 **Interests**: Emerging technologies, gaming (tabletop and PC), reading (sci-fi, fantasy, non-fiction), and learning software development.
+- 💡 **Interests**: Emerging technologies, gaming (tabletop and PC), reading (sci-fi, fantasy, non-fiction), and learning new things.
 - 🌱 **Currently Learning**: Python, AI/ML, Rust, Web3
 - 🤝 **Let's Connect**: Feel free to contact me here or via LinkedIn.
 
